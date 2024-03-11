@@ -1,5 +1,0 @@
-setup.py
-podio_common.egg-info/PKG-INFO
-podio_common.egg-info/SOURCES.txt
-podio_common.egg-info/dependency_links.txt
-podio_common.egg-info/top_level.txt
